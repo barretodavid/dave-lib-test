@@ -1,6 +1,6 @@
 {
   "name": "dave-lib-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Demo code to show how to create and publish an Angular component library",
   "main": "./bundles/dave-lib-test.umd.js",
   "module": "./dave-lib-test.es5.js",
