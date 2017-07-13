@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { LibService } from 'quickstart-lib';
+import { LibService } from 'dave-lib-test';
 
 @Component({
   selector: 'demo-app',

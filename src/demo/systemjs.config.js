@@ -39,7 +39,7 @@
       rxjs: {
         defaultExtension: 'js'
       },
-      'quickstart-lib': {
+      'dave-lib-test': {
         main: 'index.js',
         defaultExtension: 'js',
         meta: {
