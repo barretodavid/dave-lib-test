@@ -1,6 +1,6 @@
 {
   "name": "dave-lib-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library QuickStart package.json from the documentation, supplemented with testing support",
   "main": "./bundles/dave-lib-test.umd.js",
   "module": "./dave-lib-test.es5.js",
